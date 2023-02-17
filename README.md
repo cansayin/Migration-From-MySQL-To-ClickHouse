@@ -6,6 +6,8 @@ First install mysql conenctor
 pip install mysql-connector-python
 </code></pre>
 
+edit script with your servers informations
+
 then run the script
 
 
